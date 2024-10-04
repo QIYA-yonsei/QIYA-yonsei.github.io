@@ -122,6 +122,15 @@ _11/3/2024(일)
 -  양자컴퓨터의 사용화 강의
 - IBM Quantum의 여러 Project들 설명
 
+<img src="/assets/img/JunseoLee.png" width="300" height="300"/>
+
+#### 이준서, Norma 연구원
+
+주제:
+
+-  Norma의 현직 연구
+- 양자머신러닝 관련 연구
+
 
 ## ❗안내사항❗
 
