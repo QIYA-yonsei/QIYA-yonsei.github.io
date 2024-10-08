@@ -172,7 +172,7 @@ _11/4/2024(월) 19:00_
 _11/5/2024(화) 
 
 ### 워크샵1
-<img src="/assets/img/ImHyeongMin.png" width="300" height="300"/>
+<img src="/assets/img/ImHyeongMin.jpg" width="300" height="300"/>
 
 #### 임형민, 전기전자공학과
 _11/6/2024(수) 
@@ -188,13 +188,13 @@ _11/6/2024(수)
 -  Norma의 현직 연구
 - 양자머신러닝 관련 연구
 ### 워크샵2
-<img src="/assets/img/JeongJunSeok.png" width="300" height="300"/>
+<img src="/assets/img/JeongJunSeok.jpg" width="300" height="300"/>
 
 #### 정준석, 물리학과
 _11/8/2024(금) 
 
 ### 강연3
-<img src="/assets/img/ChoiSeokWon.png" width="300" height="300"/>
+<img src="/assets/img/ChoiSeokWon.jpg" width="300" height="300"/>
 
 #### 최석원, 물리학과
 _11/11/2024(월) 
