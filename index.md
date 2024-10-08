@@ -126,17 +126,19 @@ _Event Details: 11/15/2024(금), offline 과학관 B130, 14:00~18:30_
 
 ### 킥오프미팅
 
-<img src="/assets/img/kimjaewan.jpg" width="300" height="400"/>
+<img src="/assets/img/KimJaeWan1.jpg" width="300" height="400"/>
 
-#### 김재완, 고등과학원 KIAS(Korean Institute of Advances Science) 부원장
+#### 김재완, 고등과학원 KIAS( Korea Institute for Advanced Study) 양자우주연구센터 석학교수
 
 _11/1/2024(금) 14:00_
 
 주제:
 
-- 양자정보과학 분야 소개 및 연구 동향
-- 양자알고리즘 이론 소개
-
+- 고등과학원 석학교수 (양자우주연구센터)
+- 연세대학교 특임교수, 양자정보기술연구원 원장
+- 미래양자융합포럼 학계 의장
+- 전 고등과학원 부원장
+- 한국양자정보학회 초대회장
 
 ### 강연1
 
