@@ -200,7 +200,7 @@ _11/8/2024(금)
 _11/11/2024(월) 
 
 ### 강연5
-<img src="/assets/img/문경순.jpg" width="300" height="385"/>
+<img src="/assets/img/moongyongsoon.jpg" width="300" height="385"/>
 #### 문경순, 물리학과 교수
 _11/12/2024(화) 
 
