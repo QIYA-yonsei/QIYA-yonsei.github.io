@@ -235,7 +235,7 @@ _11/13/2024(수)
 - 마감기한: 10/29/2024(화) 23:59
 - 신청자가 많을 경우 조기 마감될 수 있습니다.
 - 신청서를 성실히 작성하지 않으신 경우 Qiskit Fall Fest 참여가 어려우실 수 있습니다.
-- 참가 신청서: [Google form](https://forms.gle/rtW53pXLyBs3ChEP6) - 추후 개방예정
+- 참가 신청서: [Google form](https://forms.gle/rtW53pXLyBs3ChEP6)
 
 ### 시상품
 
