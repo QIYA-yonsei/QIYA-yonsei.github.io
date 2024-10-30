@@ -167,6 +167,7 @@ _11/4/2024(월) 19:00_
 - IBM Quantum의 비전
 
 ### 강연3
+<img src="/assets/img/ParkGyongDeok.jpg" width="300" height="400"/>
 
 #### 박경덕, 응용통계학과 교수
 _11/5/2024(화) 
@@ -195,7 +196,6 @@ _11/8/2024(금)
 
 ### 워크샵3 
 <img src="/assets/img/ChoiSeokWon.jpg" width="300" height="385"/>
-
 #### 최석원, 물리학과
 _11/11/2024(월) 
 
@@ -205,6 +205,7 @@ _11/11/2024(월)
 _11/12/2024(화) 
 
 ### 강연6
+<img src="/assets/img/ParkChaYeon.jpg" width="300" height="376"/>
 #### 박채연, IT융합공학과 교수
 _11/13/2024(수) 
 
