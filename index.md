@@ -170,9 +170,11 @@ _11/4/2024(월) 19:00_
 <img src="/assets/img/ParkGyongDeok.jpg" width="300" height="400"/>
 
 #### 박경덕, 응용통계학과 교수
+
 _11/5/2024(화) 
 
 ### 워크샵1
+
 <img src="/assets/img/ImHyeongMin.jpg" width="300" height="400"/>
 
 #### 임형민, 전기전자공학과
@@ -192,21 +194,31 @@ _11/6/2024(수)
 <img src="/assets/img/JeongJunSeok.jpg" width="300" height="343"/>
 
 #### 정준석, 물리학과
+
 _11/8/2024(금) 
 
 ### 워크샵3 
+
 <img src="/assets/img/ChoiSeokWon.jpg" width="300" height="385"/>
+
 #### 최석원, 물리학과
+
 _11/11/2024(월) 
 
 ### 강연5
+
 <img src="/assets/img/Moongyongsoon.jpg" width="300" height="385"/>
+
 #### 문경순, 물리학과 교수
+
 _11/12/2024(화) 
 
 ### 강연6
+
 <img src="/assets/img/ParkChaYeon.jpg" width="300" height="376"/>
+
 #### 박채연, IT융합공학과 교수
+
 _11/13/2024(수) 
 
 
