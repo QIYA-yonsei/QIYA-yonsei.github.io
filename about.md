@@ -29,7 +29,7 @@ title: Qiskit Fall Fesitval 2024 in Yonsei
 
 행사 마지막 날인 11월 15일에는 Quantum Challenge가 열렸다.  Quantum Challenge에서는 페스티벌 기간 동안 학습한 양자정보이론을 바탕으로 한 문제들을 다뤄 참가자들이 배운 지식을 활용할 기회를 제공했다. 또한 행사 기간 중 IQIT의 지원을 받아 마련된 QIYA 회원들의 식사자리에서 이번 행사준비와 앞으로의 활동에 대해 자유롭게 이야기하는 시간을 가졌다.
 
-<img src="/assets/img/2024QFFAward.png" width="744" height="400"/>
+<img src="/assets/img/2024QFFAward.png" width="545" height="293"/>
 
 ###### ▶▶ 행사 막바지에 이루어진 ‘Quantum Challenge’의 수상 모습.
 
