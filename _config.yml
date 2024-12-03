@@ -13,7 +13,7 @@ author: Seokwon Choi, Hyeongmin Lim
 navbar-links:
   Festival : "QFF"
   About: "about"
-  #Publication: "publication"
+  Publication: "publication"
   Blog: "Blog"
   Project: "Project"
   GitHub: "https://github.com/QIYA-yonsei/Yonsei-Quantum-Challange-2024"
