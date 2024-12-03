@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Qiskit Fall Fesitval 2024 in Yonsei
+#title: Qiskit Fall Fesitval 2024 in Yonsei
 ---
 
 <br/>
